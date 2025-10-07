@@ -120,7 +120,6 @@ const API_SITES = {
         adult: true
     },
     }
-};
 
 // 定义合并方法
 function extendAPISites(newSites) {
